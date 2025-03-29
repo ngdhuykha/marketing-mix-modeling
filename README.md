@@ -1,1 +1,1 @@
-# marketingmixmodeling
+# marketing-mix-modeling
